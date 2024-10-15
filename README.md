@@ -12,7 +12,7 @@ MERN (MongoDB, Express.js, React.js, Node.js)
 2) cd into server and in the terminal, type "npm start"
 3) cd into client and in the terminal, type "npm start"
 
-## Requirements in .env:
+## requirements in .env:
 MongoDB, Firebase
 
 ## note:
