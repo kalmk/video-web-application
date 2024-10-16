@@ -1,4 +1,4 @@
-# video-web-application
+# video web application
 
 ### how to prepare the environment
 1) cd into correct directory
